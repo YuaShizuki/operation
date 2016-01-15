@@ -5,7 +5,7 @@ from frappe import _
 def get_data():
 	return {
 		"operation": {
-			"color": "green",
+			"color": "Teal",
 			"icon": "icon-cog",
 			"type": "module",
 			"label": _("operation")
